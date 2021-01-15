@@ -1,0 +1,19 @@
+# Ignore bundler config.
+/.bundle
+
+# Ignore all logfiles and tempfiles.
+/log/*.log
+/tmp
+
+# Ignore uploaded files in development
+/storage
+
+.byebug_history
+
+# Ignore master key for decrypting credentials and more.
+/config/master.key
+
+# App specific
+/coverage
+vendor/bundle
+vendor/cache
